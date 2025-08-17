@@ -91,4 +91,4 @@ Update these parameters in `test_OpenCV[Live].py`:
 
 ## License
 
-MIT License
+This project is licensed under the [MIT License](LICENSE).  
